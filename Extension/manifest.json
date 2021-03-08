@@ -1,7 +1,7 @@
 {
         "name": "HMS Client",
         "version": "1.0",
-        "description": "Chrome Extension for the HMS Utlity Mod, which allows the client to inject automatically",
+        "description": "Chrome Extension for the HMS Utlity Mod, which allows the client to inject automatically. This Extension works with Firefox, and Explorer aswell.",
         "background": {
                 "scripts": ["injector.js"],
                 "persistent": false
